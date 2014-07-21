@@ -17,5 +17,6 @@ namespace BMIServiceLib
         [OperationContract]
         string GetCategory(double BMI);
 
+        int slap = 0;
     }
 }
